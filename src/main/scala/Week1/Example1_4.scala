@@ -12,4 +12,8 @@ object Example1_4 {
   }
 
   def abs(x: Int) =  if (x >= 0) x else -x
+
+  def and(x: Boolean, y: Boolean) = x && y
+
+  def or(x: Boolean, y: Boolean) = x || y
 }
