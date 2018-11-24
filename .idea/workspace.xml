@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/scala/Week2/Example2_2.scala" line="16" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c81a72cc-8317-47e4-af4e-f59f91b9d092" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Week1/Example1_6.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Week1/Example1_7.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Week2/Example2_1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Week2/Example2_2.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Week1/Example1_4.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Week1/Example1_4.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Week1/Example1_5.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Week1/Example1_5.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Week1/Example1_4$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Week1/Example1_4$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Week1/Example1_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Week1/Example1_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Week1/Example1_5$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Week1/Example1_5$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Week1/Example1_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Week1/Example1_5.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,11 +44,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Week1/Example1_7.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="11" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Week2/Example2_1.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Week2/Example2_2.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -85,14 +100,16 @@
         <option value="$PROJECT_DIR$/src/main/scala/Week1/Example1_5.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Week1/Example1_6.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Week1/Example1_7.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Week2/Example2_1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Week2/Example2_2.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2552" />
-    <option name="y" value="-8" />
-    <option name="width" value="630" />
-    <option name="height" value="360" />
+    <option name="x" value="234" />
+    <option name="y" value="298" />
+    <option name="width" value="1920" />
+    <option name="height" value="1140" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -100,7 +117,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,10 +155,19 @@
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="Week1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="scala-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="Week2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -167,20 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Example1_7">
-    <configuration name="Example1_4" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Week1.Example1_4" />
-      <module name="scala-exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Example2_2">
     <configuration name="Example1_5" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Week1.Example1_5" />
       <module name="scala-exercises" />
@@ -220,12 +232,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Example2_1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.Example2_1" />
+      <module name="scala-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example2_2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.Example2_2" />
+      <module name="scala-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example2_2" />
+        <item itemvalue="Application.Example2_1" />
         <item itemvalue="Application.Example1_7" />
         <item itemvalue="Application.Example1_6" />
         <item itemvalue="Application.Example1_5" />
-        <item itemvalue="Application.Example1_4" />
       </list>
     </recent_temporary>
   </component>
@@ -278,17 +317,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2552" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579491" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2639676" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32969603" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3281493" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -324,6 +363,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Week1/Example1_7.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Week1/Example1_4.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -331,10 +377,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Week1/Example1_7.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Week2/Example2_1.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="350">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Week2/Example2_2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
